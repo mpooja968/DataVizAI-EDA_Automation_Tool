@@ -21,7 +21,7 @@ DataVizAI (Data Visualization &amp; AI-powered Insights) is an AI-augmented Expl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/DataVizAI.git
+git clone https://github.com/mpooja968/DataVizAI-EDA_Automation_Tool
 cd DataVizAI
 ```
 
@@ -40,7 +40,7 @@ GROQ_API_KEY=your_groq_api_key
 4. Running the application
 
 ```bash
-streamlit run app.py
+streamlit run app2.py
 ```
 
 
