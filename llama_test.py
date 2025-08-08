@@ -1,6 +1,6 @@
 import groq
 
-API_KEY = "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"
+API_KEY = "give_your_api_key"
 
 client = groq.Client(api_key=API_KEY)
 
@@ -15,3 +15,4 @@ def chat_with_groq(prompt):
 user_input = input("Enter your prompt: ")
 response = chat_with_groq(user_input)
 print("\nResponse:", response)
+
