@@ -1,0 +1,15 @@
+matplotlib
+numpy
+pandas
+polars
+plotly
+seaborn
+scipy
+scikit-learn
+statsmodels
+streamlit
+polars
+tsfresh
+dabl
+pyod
+fpdf
