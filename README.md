@@ -43,7 +43,8 @@ GROQ_API_KEY=your_groq_api_key
 streamlit run app.py
 ```
 
-**✨ Features**
+
+# **✨ Features**
 
 📂 Data Upload & Preprocessing – CSV/XLSX support, schema detection, type conversion, timestamp selection
 
@@ -57,7 +58,8 @@ streamlit run app.py
 
 📄 Automated PDF Reports – Full dataset overview, stats, visualizations, scrollable data previews
 
-**🔮 Future Enhancements**
+
+# **🔮 Future Enhancements**
 
 Domain-specific LLM fine-tuning
 
